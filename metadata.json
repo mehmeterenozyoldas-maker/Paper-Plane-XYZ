@@ -1,0 +1,8 @@
+{
+  "name": "Paper Plane Aerodynamics Digital Twin",
+  "description": "Realistic paper airplane flight simulation and aerodynamic digital twin with live wind tunnel streamlines, force vectors, and landing telemetry for Android XR, Meta Quest 3, and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
